@@ -44,5 +44,5 @@
 
 <img src="https://raw.githubusercontent.com/Vedant224/Vedant/output/snake.svg" alt="Snake animation" />
 
-
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx2dGk4bGFnbXl2ZW1qZzRocGo4b2tucmY5ZGJlNHN0eTJpcjE1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif)
   </div>
