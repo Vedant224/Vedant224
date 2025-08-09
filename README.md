@@ -34,7 +34,7 @@
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant2244&theme=radical&hide_border=true&background=1a1b27&ring=ff3068&fire=ff3068" alt=" GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant224&theme=radical&hide_border=true&background=1a1b27&ring=ff3068&fire=ff3068" alt=" GitHub Streak" />
   
   <br />
 
