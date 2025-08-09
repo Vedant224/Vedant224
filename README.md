@@ -37,4 +37,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant2244&theme=radical&hide_border=true&background=1a1b27&ring=ff3068&fire=ff3068" alt=" GitHub Streak" />
   
   <br />
+
+<img src="https://raw.githubusercontent.com/Vedant224/Vedant224/output/snake.svg" alt="Snake animation" />
+
+
   </div>
