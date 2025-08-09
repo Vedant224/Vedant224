@@ -38,7 +38,7 @@
   
   <br />
 
-<img src="https://raw.githubusercontent.com/Vedant224/Vedant224/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vedant224/Vedant/output/snake.svg" alt="Snake animation" />
 
 
   </div>
